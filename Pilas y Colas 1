@@ -1,0 +1,7 @@
+package PilaEjemplo;
+
+public class Nodo {
+    int dato;
+    Nodo siguiente;
+   
+}
